@@ -1,4 +1,7 @@
 ## Hi there 👋
+I am an AI Engineer, bringing in AI into the manufacturing plant of Mercedes-Benz India Pvt. Ltd.
+I thought I'd use Github to my advantage and showcase the different projects I am working on (obviously in a compliant way) along with the different questions and problems I solve.
+The aim is to keep learning and improve 📈!
 
 <!--
 **arnavasoni/arnavasoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
